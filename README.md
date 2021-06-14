@@ -7,6 +7,7 @@ Christopher Vera "Las deciciones fuertes requieren de mentes fuertes"
 
 Daniel Guachamín "Un gran poder conlleva una gran responsabilidad"
 
+
 Jeremy León: "La vida es como una caja de chocolates. Nunca sabes lo que te va a tocar"
 
 Kevin Pulupa "la vida es bella"
@@ -17,3 +18,5 @@ Gabriel Valdivieso "Amar es la mayor locura a no ser que se ame con locura"
 
 Josue Singaña "Siempre Sonrie"
 David Cacuango " Sigue adelante"
+
+Kevin Veliz "Vivamos y que pase lo que tenga que pasar"
