@@ -17,3 +17,4 @@ Erick Andrade "Viento a favor. Mi billetera es como una cebolla, abrirla me hace
 Gabriel Valdivieso "Amar es la mayor locura a no ser que se ame con locura"
 
 Josue Singaña "Siempre Sonrie"
+David Cacuango " Sigue adelante"
