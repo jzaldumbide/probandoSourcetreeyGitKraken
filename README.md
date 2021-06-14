@@ -7,7 +7,6 @@ Christopher Vera "Las deciciones fuertes requieren de mentes fuertes"
 
 Daniel Guachamín "Un gran poder conlleva una gran responsabilidad"
 
-
 Jeremy León: "La vida es como una caja de chocolates. Nunca sabes lo que te va a tocar"
 
 Kevin Pulupa "la vida es bella"
