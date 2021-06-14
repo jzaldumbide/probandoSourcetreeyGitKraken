@@ -17,6 +17,7 @@ Erick Andrade "Viento a favor. Mi billetera es como una cebolla, abrirla me hace
 Gabriel Valdivieso "Amar es la mayor locura a no ser que se ame con locura"
 
 Josue Singaña "Siempre Sonrie"
+
 David Cacuango " Sigue adelante"
 
 Kevin Veliz "Vivamos y que pase lo que tenga que pasar"
@@ -24,6 +25,7 @@ Kevin Veliz "Vivamos y que pase lo que tenga que pasar"
 Michaelle Valenzuela "La cordura es la mas dura de las cobardías"
 
 Denisse Cumbal "Un dia a la vez"
+
 Antony Sanchez "Porca miseria"
 
 Sebastián Valencia "Deducción impositiva"
