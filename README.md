@@ -12,3 +12,4 @@ Daniel Guachamín "Un gran poder conlleva una gran responsabilidad"
 Jeremy León: "La vida es como una caja de chocolates. Nunca sabes lo que te va a tocar"
 
 Jhosef Rea: "Subiendo desde la terminal"
+Bryan Quisaguano: "Todos los hombres mueren, pero no todos han vivido"
