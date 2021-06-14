@@ -15,6 +15,8 @@ Jhosef Rea: "Subiendo desde la terminal"
 
 Bryan Quisaguano: "Todos los hombres mueren, pero no todos han vivido"
 
+Nataly Guallichico "Siempre Sonrie :)"
+
 
 Name: Carlos Quel
 Phrase: Knowledge is power.
