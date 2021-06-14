@@ -14,3 +14,7 @@ Jeremy León: "La vida es como una caja de chocolates. Nunca sabes lo que te va 
 Jhosef Rea: "Subiendo desde la terminal"
 
 Bryan Quisaguano: "Todos los hombres mueren, pero no todos han vivido"
+
+
+Name: Carlos Quel
+Phrase: Knowledge is power.
