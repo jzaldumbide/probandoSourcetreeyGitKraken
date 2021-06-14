@@ -15,3 +15,5 @@ Kevin Pulupa "la vida es bella"
 Erick Andrade "Viento a favor. Mi billetera es como una cebolla, abrirla me hace llorar"
 
 Gabriel Valdivieso "Amar es la mayor locura a no ser que se ame con locura"
+
+Josue Singaña "Siempre Sonrie"
