@@ -18,3 +18,5 @@ Bryan Quisaguano: "Todos los hombres mueren, pero no todos han vivido"
 
 Name: Carlos Quel
 Phrase: Knowledge is power.
+
+Cindy Yazán: "La libertad es la conciencia que nos lleva, en ciertos momentos, a pronunciar dos monosílabos: Sí o No"
