@@ -22,4 +22,4 @@ Name: Carlos Quel
 Phrase: Knowledge is power.
 
 Cindy Yazán: "La libertad es la conciencia que nos lleva, en ciertos momentos, a pronunciar dos monosílabos: Sí o No"
-Miguel Cuenca : "El secreto de la sociedad es sonreir"
+Miguel Cuenca : "El secreto de la sociedad es a sonreir"
